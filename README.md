@@ -1,2 +1,2 @@
 # duco_oled
-shows balance miners h/s
+Shows balance workers and h/s
